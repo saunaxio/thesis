@@ -11,6 +11,8 @@
 7. Ohjausjärjestelmän rakenne 
 Lambda, OpenWhisk,NodeRed, Python, librarys
 
+Säätöpiirit: PI / PID / ON/OFF
+
 8. Ongelman tarkastelu ja ratkaisun kulku
 9. Testit/lopputulokset
 10. Tulevaisuus..
